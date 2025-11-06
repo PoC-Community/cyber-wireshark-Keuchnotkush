@@ -18,3 +18,5 @@ _You should probably what GSMTAP et TP-UD are ;)_
 ## 📂 File provided
 
 * `gsm.pcap`
+
+SMTAP-SAMPLE;TYPE=SMS_DELIVER;FROM=+33100000001;TO=+33200000001;TP-DCS=00;TP-UD=6542ac8f10ccc5b115ab0210;TP-UDL=12
